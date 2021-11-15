@@ -1,0 +1,6 @@
+cloudservice:
+https://www.pythonanywhere.com/pricing/
+https://medium.com/tech-insights/how-to-deploy-a-python-script-or-bot-to-heroku-in-5-minutes-a82de2d3ed40
+https://ngrok.com/
+
+
